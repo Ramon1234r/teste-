@@ -967,7 +967,7 @@ MinimizeButton.MouseButton1Click:Connect(function()
     
     local RestoreButton = Instance.new("TextButton")
     RestoreButton.Name = "RestoreButton"
-    RestoreButton.Text = "SolixHub"
+    RestoreButton.Text = "Lunar Shop"
     RestoreButton.TextColor3 = Color3.fromRGB(255, 255, 255)
     RestoreButton.TextSize = 14
     RestoreButton.Font = Enum.Font.Gotham
